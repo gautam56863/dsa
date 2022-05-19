@@ -1,0 +1,3 @@
+licates(char A[]){
+    
+// }
